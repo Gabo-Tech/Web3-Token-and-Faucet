@@ -1,3 +1,67 @@
+<h1 align="center"><strong>DGABO TOKEN</strong></h1>
+
+
+![Web Mockup](Mockup.png)
+<br>
+
+## Getting Started
+Hi everyone! This is my personal cryptotoken it's real, though it's not deployed and publicly available due to expensive blockchain fees. You can claim your free tokens by just pressing a button.
+
+### You want to own this website?
+
+On the other hand if you'd like to host this website on your local machine just clone this repository with ```git clone https://github.com/Gabo-Tech/Web3-Token-and-Faucet.git```. just copy and paste that command on your terminal and keep scrolling to see how to set up the DFINITY enviorment.
+
+## Deployment
+
+Even though this is been develop to run in the cheapest blockchain (The Internet Computer), it's still quite expensive for me to deploy this into the real blockachian, but you can download it and run the emulator, keep scrolling to see the instructions.
+
+## Built With
+
+* [JavaScript](https://www.javascript.com/) - The web programming languaje
+* [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/) - Let's code smart contracts!
+* [HTML](https://html.com/) - Your favourite Markup Languaje
+* [CSS](https://www.css3.info/) - Used to stylize this awesome website
+* [React](https://reactjs.org/) - The "reactive" library
+
+## Contributing
+
+  Like, share, subscribe, follow and join my Patreon! Just kidding this is totally for free. 
+
+## Authors
+
+* **Gabriel Clemente, aka Gabo, your favourite web developer.** - *Initial work* - [Gabo](https://github.com/Gabo-Tech)
+
+## License
+
+This project is licensed under the Creative Commons Public Domain License - Feel free to copy the code, I did it too.
+
+
+<br>
+<p align="center">
+  <img 
+    width="400"
+    height="130"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Public_Domain_Mark_button.svg/220px-Public_Domain_Mark_button.svg.png"
+    alt="Creative Commons Public Domain License"
+  ></p>
+  <p align="center">
+  <img 
+    width="800"
+    height="1000"
+    src="https://preview.redd.it/hwurhp7crzf81.png?auto=webp&s=3f230e79f360c9fbc9394e70ea72330391bf8f27"
+    alt="This meme represents you"
+  ></p>
+<br>
+
+
+## Acknowledgments
+
+* Thanks to Angela Yu, it's been the best teacher I ever had, I learn most of the things I know with her.
+
+## Intruction to create the enviorment to run this DAPP
+
+[In this link](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
+
 # Check your Balance
 
 1. Find out your principal id:
